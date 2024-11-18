@@ -2,8 +2,11 @@
   <img height="500" src="https://i.pinimg.com/originals/31/22/77/3122778a926851ec74d1f4e186e0bb04.gif"  />
 </div>
 
+###
 
-## 🌐 Socials:
+<h3 align="left">Social Mídia®</h3>
+
+###
 
 ###
 <div align="left">
