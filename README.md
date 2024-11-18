@@ -2,10 +2,16 @@
   <img height="500" src="https://i.pinimg.com/originals/31/22/77/3122778a926851ec74d1f4e186e0bb04.gif"  />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zowhy&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zowhy&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zowhy&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
+
+<h3 align="left">Status</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0Gimenes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0Gimenes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 # 💻 Tech Stack:
 
