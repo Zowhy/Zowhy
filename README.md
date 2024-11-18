@@ -2,6 +2,11 @@
   <img height="500" src="https://i.pinimg.com/originals/31/22/77/3122778a926851ec74d1f4e186e0bb04.gif"  />
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zowhy&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zowhy&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zowhy&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 # 💻 Tech Stack:
 
 <div align="left">
@@ -54,11 +59,6 @@
 </div>
 
  ###
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zowhy&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zowhy&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zowhy&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zowhy&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
