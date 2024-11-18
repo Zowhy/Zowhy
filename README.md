@@ -55,13 +55,6 @@
 
  ###
 
-
-###
-
-<h3 align="left">Social Mídia®</h3>
-
-###
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Zowhy&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zowhy&theme=shadow_red&hide_border=false)<br/>
